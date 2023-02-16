@@ -2,7 +2,7 @@
 *By Adin Ward*
 ## Business Analytics Project
 
-## Description
+### Description
 Compared housing prices based off of 4 factors
 1. Waterfront (Y/N)
 2. Number of rooms
