@@ -1,2 +1,3 @@
 # Hello-World
-*italicized text* Message
+*By Adin Ward*
+## Description
